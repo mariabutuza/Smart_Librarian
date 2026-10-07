@@ -1,0 +1,725 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "publication_year": 1997,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "friendship",
+      "magic",
+      "courage"
+    ],
+    "keywords": [
+      "wizard",
+      "hogwarts",
+      "magic"
+    ],
+    "short_summary": "Harry discovers he is a wizard and begins his education at Hogwarts, where he forms lifelong friendships and faces the dark wizard Voldemort.",
+    "full_summary": "On his eleventh birthday, the orphaned Harry Potter discovers he is no ordinary boy, but a wizard. Upon arriving at Hogwarts School of Witchcraft and Wizardry, he makes lifelong friends such as Ron Weasley and Hermione Granger. Together, the three venture to unravel the mystery surrounding the Philosopher's Stone, a powerful artifact hidden in the school, and successfully thwart the dreaded Lord Voldemort's first attempt to return to power. The novel explores the transition to discovering one's identity and the eternal struggle between good and evil."
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "publication_year": 1998,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "friendship",
+      "mystery",
+      "courage"
+    ],
+    "keywords": [
+      "hogwarts",
+      "basilisk",
+      "diary"
+    ],
+    "short_summary": "Harry returns to Hogwarts, where mysterious attacks threaten the students and an ancient secret is revealed.",
+    "full_summary": "Harry returns to Hogwarts for his second year of study, but the school is soon gripped by terror as several students are mysteriously petrified. Investigating the legend of the terrifying Chamber of Secrets, Harry, aided by Ron and Hermione, discovers an old diary belonging to Tom Riddle. He must face a giant basilisk to save the school and thwart, once again, Voldemort's hidden plans."
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "publication_year": 1999,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "friendship",
+      "justice",
+      "family"
+    ],
+    "keywords": [
+      "sirius",
+      "time travel",
+      "dementors"
+    ],
+    "short_summary": "Harry learns the truth about Sirius Black and uncovers hidden secrets from his parents' past.",
+    "full_summary": "The atmosphere grows tense at Hogwarts due to the presence of Dementors and the escape of Sirius Black, a presumed dangerous criminal who is believed to want to kill Harry. Through time travel and unexpected revelations, Harry discovers the truth about his parents' past and learns that Sirius is, in fact, his godfather and an innocent man. The book strongly emphasizes loyalty, forgiveness, and the complex nuances of truth."
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "publication_year": 2000,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "competition",
+      "friendship",
+      "sacrifice"
+    ],
+    "keywords": [
+      "triwizard",
+      "cedric",
+      "voldemort"
+    ],
+    "short_summary": "Harry competes in the Triwizard Tournament while Voldemort prepares his return.",
+    "full_summary": "Harry is entered against his will into the dangerous Triwizard Tournament, which subjects him to deadly magical tasks alongside older and more experienced champions like Cedric Diggory. Behind this event lies a dark conspiracy that culminates in a tragic outcome and the physical rebirth of Lord Voldemort. This book marks a turning point in the series, with the tone becoming much darker and more mature."
+  },
+  {
+    "id": 5,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "publication_year": 2003,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "resistance",
+      "friendship",
+      "loss"
+    ],
+    "keywords": [
+      "dumbledore",
+      "umbridge",
+      "prophecy"
+    ],
+    "short_summary": "Harry leads his fellow students against the growing darkness at Hogwarts.",
+    "full_summary": "While the magical community refuses to believe that Voldemort has returned, Hogwarts falls under the tyrannical control of Dolores Umbridge, sent by the Ministry of Magic. Frustrated by the lack of action and the secrets hidden by Dumbledore (including a vital prophecy), Harry takes the initiative and forms 'Dumbledore's Army,' training his peers for the impending fight. The novel delves into themes of leadership, managing grief, rebellion, and the courage to stand against oppression."
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "publication_year": 2005,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "destiny",
+      "love",
+      "sacrifice"
+    ],
+    "keywords": [
+      "horcrux",
+      "snape",
+      "memories"
+    ],
+    "short_summary": "Harry discovers Voldemort's past and the secret of the Horcruxes.",
+    "full_summary": "As the forces of darkness grow stronger, Albus Dumbledore begins to prepare Harry for the final confrontation, guiding him through the memories of Voldemort's past to discover the secret of his immortality: the Horcruxes. Concurrently, Harry finds a potions textbook that belonged to the mysterious 'Half-Blood Prince.' The book ends shockingly with an unexpected betrayal by Severus Snape and Dumbledore's tragic death."
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "publication_year": 2007,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "sacrifice",
+      "friendship",
+      "hope"
+    ],
+    "keywords": [
+      "horcruxes",
+      "hallows",
+      "battle"
+    ],
+    "short_summary": "Harry searches for the Horcruxes to defeat Voldemort once and for all.",
+    "full_summary": "In the final installment of the series, Harry, Ron, and Hermione do not return to Hogwarts; instead, they set off on a desperate and dangerous mission to find and destroy the remaining Horcruxes. Along the way, they learn about the legendary myth of the Deathly Hallows. Everything culminates in the epic Battle of Hogwarts, where the fate of the magical world is decided. It is a conclusion about the triumph of courage, the absolute power of love, and accepting one's destiny, even at the ultimate price."
+  },
+  {
+    "id": 8,
+    "title": "The Housemaid",
+    "author": "Freida McFadden",
+    "publication_year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "themes": [
+      "secrets",
+      "survival",
+      "manipulation"
+    ],
+    "keywords": [
+      "maid",
+      "psychological",
+      "twist"
+    ],
+    "short_summary": "A housemaid uncovers disturbing secrets inside the Winchester household.",
+    "full_summary": "Seeking a fresh start, Millie accepts a job as a housemaid for the wealthy and seemingly perfect Winchester family. However, as she works and lives in their home, she gradually discovers that her employers hide terrifying secrets, and the power dynamic is fraught with abuse and manipulation. This gripping psychological thriller offers shocking plot twists, proving that no one is exactly as they seem, and revenge can come from where you least expect it."
+  },
+  {
+    "id": 9,
+    "title": "The Housemaid's Secret",
+    "author": "Freida McFadden",
+    "publication_year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "themes": [
+      "secrets",
+      "trust"
+    ],
+    "keywords": [
+      "maid",
+      "mystery"
+    ],
+    "short_summary": "Millie enters another home where appearances are incredibly deceiving.",
+    "full_summary": "After the events of the first book, Millie tries to maintain a normal life by taking another housekeeping job, hoping for peace. Unfortunately, she ends up in another house where appearances are deeply deceiving. Behind the facade of a perfect family lie hidden crimes and deadly intentions, forcing Millie to once again use her sharp survival instincts and intelligence to navigate a new labyrinth of lies."
+  },
+  {
+    "id": 10,
+    "title": "The Housemaid Is Watching",
+    "author": "Freida McFadden",
+    "publication_year": 2024,
+    "genres": [
+      "Thriller"
+    ],
+    "themes": [
+      "paranoia",
+      "neighbors"
+    ],
+    "keywords": [
+      "suspense",
+      "psychological"
+    ],
+    "short_summary": "Millie suspects something is terribly wrong in her new neighborhood.",
+    "full_summary": "Millie moves to a new neighborhood that seems idyllic at first glance, but a persistent feeling of unease leads her to suspect that something is terribly wrong with her neighbors and surroundings. The suspense reaches fever pitch as the community's secrets come to light. It is an intense domestic thriller about suspicion, covered-up truths, and the constant struggle for survival in a hostile environment hidden beneath a friendly mask."
+  },
+  {
+    "id": 11,
+    "title": "The Housemaid's Wedding",
+    "author": "Freida McFadden",
+    "publication_year": 2024,
+    "genres": [
+      "Thriller"
+    ],
+    "themes": [
+      "love",
+      "suspense"
+    ],
+    "keywords": [
+      "novella",
+      "wedding"
+    ],
+    "short_summary": "Millie's wedding day is threatened by completely unexpected events.",
+    "full_summary": "A companion novella that was supposed to focus on the happiest event in Millie's life: her wedding day. But her tumultuous past and unforeseen dangers threaten to turn the ceremony into a nightmare. The story explores how past traumas and ongoing suspense follow the protagonist even in moments when she desperately tries to find absolute happiness."
+  },
+  {
+    "id": 12,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "publication_year": 2019,
+    "genres": [
+      "Psychological Thriller"
+    ],
+    "themes": [
+      "trauma",
+      "truth"
+    ],
+    "keywords": [
+      "murder",
+      "therapy"
+    ],
+    "short_summary": "A famous painter refuses to speak after murdering her husband in cold blood.",
+    "full_summary": "Alicia Berenson, a famous painter, has a seemingly perfect life until the evening she shoots her husband five times in the face, and then refuses to speak another word. Her silence turns the crime into a national mystery. Criminal psychotherapist Theo Faber becomes obsessed with her case and is determined to make her speak to find out the motive for the crime. His search for the truth will lead him down unexpected paths, culminating in one of the most shocking plot twists in modern genre literature."
+  },
+  {
+    "id": 13,
+    "title": "The Clocks",
+    "author": "Agatha Christie",
+    "publication_year": 1963,
+    "genres": [
+      "Mystery"
+    ],
+    "themes": [
+      "crime",
+      "investigation"
+    ],
+    "keywords": [
+      "Poirot",
+      "murder"
+    ],
+    "short_summary": "A dead body, several clocks, and conflicting clues challenge investigators.",
+    "full_summary": "When a typist discovers a corpse in a stranger's house, alongside several clocks mysteriously set to the same wrong time (1:41), the police hit a wall of contradictory clues and hidden identities. Inspector Hardcastle calls upon the famous Belgian detective Hercule Poirot, who, though old and seemingly detached, manages to deconstruct this extremely bizarre case, proving once again that logical deduction can solve even the most convoluted criminal puzzles."
+  },
+  {
+    "id": 14,
+    "title": "The Deal",
+    "author": "Elle Kennedy",
+    "publication_year": 2015,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "love",
+      "college"
+    ],
+    "keywords": [
+      "hockey",
+      "fake dating"
+    ],
+    "short_summary": "A fake dating arrangement changes the lives of two college students.",
+    "full_summary": "Hannah Wells has a crush on a boy she doesn't know how to approach, and Garrett Graham, the captain of the hockey team, desperately needs tutoring to save his sports scholarship. The two make a deal: she helps him study, and he helps her attract the boy she likes through a fake relationship. What starts as a simple arrangement transforms into a deep connection, as they both face their traumas and discover genuine feelings."
+  },
+  {
+    "id": 15,
+    "title": "The Mistake",
+    "author": "Elle Kennedy",
+    "publication_year": 2015,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "relationships",
+      "growth"
+    ],
+    "keywords": [
+      "college",
+      "hockey"
+    ],
+    "short_summary": "A hockey player tries to win back the girl he pushed away.",
+    "full_summary": "Logan, another star hockey player, faces an uncertain future and seeks solace in the arms of Grace, a freshman student, whom he ends up hurting and pushing away due to his lack of maturity. Realizing he made a massive mistake, Logan begins an arduous campaign to win her back. The novel follows his process of emotional maturation, taking responsibility, and striving to prove he deserves a second chance at love."
+  },
+  {
+    "id": 16,
+    "title": "The Score",
+    "author": "Elle Kennedy",
+    "publication_year": 2016,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "confidence",
+      "love"
+    ],
+    "keywords": [
+      "college",
+      "sports"
+    ],
+    "short_summary": "A confident hockey player falls for an ambitious student.",
+    "full_summary": "Dean Di Laurentis is used to getting any girl he wants with no strings attached. Everything changes when he has a one-night stand with Allie Hayes, an ambitious student fresh out of a long-term relationship, who is completely immune to his usual charms. Trying to convince Allie to give him a real chance, Dean discovers vulnerability, commitment, and the depth of a connection he never thought possible."
+  },
+  {
+    "id": 17,
+    "title": "The Goal",
+    "author": "Elle Kennedy",
+    "publication_year": 2016,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "family",
+      "responsibility"
+    ],
+    "keywords": [
+      "college",
+      "pregnancy"
+    ],
+    "short_summary": "Unexpected circumstances transform the future of two students.",
+    "full_summary": "Sabrina James is exclusively focused on graduating, law school, and a successful career, leaving no room for romance. However, a fling with John Tucker, the quiet member of the hockey team, leads to an unexpected pregnancy that turns all her plans upside down. The story explores sacrifices, the fear of the future, and how the two young adults navigate early parenting responsibilities while still supporting their dreams."
+  },
+  {
+    "id": 18,
+    "title": "The Legacy",
+    "author": "Elle Kennedy",
+    "publication_year": 2021,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "friendship",
+      "future"
+    ],
+    "keywords": [
+      "epilogue",
+      "college"
+    ],
+    "short_summary": "The couples from the series reunite years later.",
+    "full_summary": "Designed as a collection of extended epilogues, this book brings back into the spotlight the four beloved couples from the 'Off-Campus' series (Garrett & Hannah, Logan & Grace, Dean & Allie, Tucker & Sabrina). Set a few years after graduation, the story shows how they build their adult lives, managing marriage proposals, weddings, children, and new professional challenges, all while consolidating the friendship that united them throughout college."
+  },
+  {
+    "id": 19,
+    "title": "After",
+    "author": "Anna Todd",
+    "publication_year": 2014,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "love",
+      "toxic relationships"
+    ],
+    "keywords": [
+      "college",
+      "new adult"
+    ],
+    "short_summary": "Tessa's life radically changes after meeting Hardin.",
+    "full_summary": "Tessa Young is a straight-A student with a caring boyfriend back home and a perfectly planned future. Everything is turned upside down the moment she meets Hardin Scott, a rebellious, arrogant student covered in tattoos and with completely unpredictable behavior. The novel explores an intense, passionate, but often toxic romance, where the limits of trust and personal development are tested to the extreme."
+  },
+  {
+    "id": 20,
+    "title": "After We Collided",
+    "author": "Anna Todd",
+    "publication_year": 2014,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "forgiveness",
+      "love"
+    ],
+    "keywords": [
+      "relationships"
+    ],
+    "short_summary": "Tessa and Hardin struggle with the consequences of betrayal.",
+    "full_summary": "Following a devastating betrayal revealed at the end of the first book, Tessa and Hardin find themselves at a crossroads. Tessa tries to move on and focus on her career, while Hardin realizes the gravity of his mistakes and battles his own demons to become a better man. Their relationship goes through a rollercoaster of reconciliations and breakups, sprinkled with increasingly large emotional challenges."
+  },
+  {
+    "id": 21,
+    "title": "After We Fell",
+    "author": "Anna Todd",
+    "publication_year": 2014,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "family",
+      "identity"
+    ],
+    "keywords": [
+      "drama"
+    ],
+    "short_summary": "Family secrets threaten Tessa and Hardin's future.",
+    "full_summary": "Just when Tessa and Hardin think they have found balance, shocking family secrets surface, threatening to destroy the fragile foundation of their relationship. Revelations about Hardin's father and the pressures of Tessa moving to another city for her career bring new waves of jealousy and drama. The two must decide if their love is strong enough to survive these overwhelming truths."
+  },
+  {
+    "id": 22,
+    "title": "After Ever Happy",
+    "author": "Anna Todd",
+    "publication_year": 2015,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "healing",
+      "love"
+    ],
+    "keywords": [
+      "ending"
+    ],
+    "short_summary": "The couple faces their greatest emotional trials.",
+    "full_summary": "The dramatic conclusion of Tessa and Hardin's love story finds them both facing the harshest emotional tests. Tragedy strikes Hardin's family, and Tessa realizes she can no longer save him without destroying herself. Both need time and space for independent healing and maturation. The book offers a realistic resolution about the constant effort a long-term relationship requires and the choice to be happy."
+  },
+  {
+    "id": 23,
+    "title": "Before",
+    "author": "Anna Todd",
+    "publication_year": 2015,
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "perspective"
+    ],
+    "keywords": [
+      "Hardin"
+    ],
+    "short_summary": "The events of the After series retold from Hardin's perspective.",
+    "full_summary": "Shedding new light on the 'After' series story, this volume presents the events from Hardin Scott's perspective, while also exploring his life before he met Tessa. Readers gain direct access to the thoughts, motivations, childhood traumas, and inner turmoil of the male character, better understanding why he made the destructive decisions at the beginning of their relationship."
+  },
+  {
+    "id": 24,
+    "title": "The Nine Hundred",
+    "author": "Heather Dune Macadam",
+    "publication_year": 2019,
+    "genres": [
+      "Historical"
+    ],
+    "themes": [
+      "survival",
+      "Holocaust"
+    ],
+    "keywords": [
+      "Auschwitz",
+      "history"
+    ],
+    "short_summary": "The true story of the first official transport of Jewish women to Auschwitz.",
+    "full_summary": "This deeply researched historical work tells the true and harrowing story of the first official transport of Jews to Auschwitz, consisting exclusively of 999 unmarried young women from Slovakia in 1942. The author reconstructs the lives, suffering, and sisterhood bonds of these young women who were tricked into believing they were going to work for the government, highlighting absolute human resilience in the face of the horrors of the Holocaust."
+  },
+  {
+    "id": 25,
+    "title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "publication_year": 1973,
+    "genres": [
+      "History"
+    ],
+    "themes": [
+      "oppression",
+      "totalitarianism"
+    ],
+    "keywords": [
+      "gulag",
+      "USSR"
+    ],
+    "short_summary": "A powerful account of the Soviet forced labor camp system.",
+    "full_summary": "One of the most influential books of the 20th century, this monumental work systematically exposes the brutal functioning of the forced labor camp system in the Soviet Union. Combining his own experience as a political prisoner with the testimonies of hundreds of other inmates, Solzhenitsyn creates a devastating chronicle of state terror, political repression, and the enormous toll paid by millions of people under the Soviet regime."
+  },
+  {
+    "id": 26,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "publication_year": 2018,
+    "genres": [
+      "Biography"
+    ],
+    "themes": [
+      "identity",
+      "leadership"
+    ],
+    "keywords": [
+      "memoir"
+    ],
+    "short_summary": "Michelle Obama reflects on her life and public service.",
+    "full_summary": "In this intimate and inspiring memoir, the former First Lady of the United States details her life's journey, from her childhood spent in the South Side of Chicago, through her elite education and successful career as a lawyer, to the high-pressure years at the White House. The book is a sincere reflection on the balance between work, family, and public life, encouraging readers to find and use their own voice."
+  },
+  {
+    "id": 27,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2011,
+    "genres": [
+      "History"
+    ],
+    "themes": [
+      "human evolution",
+      "civilization"
+    ],
+    "keywords": [
+      "anthropology"
+    ],
+    "short_summary": "An overview of humanity's history from prehistoric times to today.",
+    "full_summary": "Harari proposes a fascinating and provocative journey through the history of our species, Homo sapiens. He structures evolution into three major revolutions: the Cognitive Revolution (which allowed us to communicate and cooperate in large masses), the Agricultural Revolution (which tied us to land and property), and the Scientific Revolution. The work analyzes how shared fictions—such as religion, nations, and money—have shaped the development, culture, and success of human society."
+  },
+  {
+    "id": 28,
+    "title": "The Courage to Be Disliked",
+    "author": "Ichiro Kishimi & Fumitake Koga",
+    "publication_year": 2013,
+    "genres": [
+      "Self Help"
+    ],
+    "themes": [
+      "happiness",
+      "freedom"
+    ],
+    "keywords": [
+      "Adler"
+    ],
+    "short_summary": "A profound philosophical dialogue inspired by Adlerian psychology.",
+    "full_summary": "Structured as a Socratic dialogue between a philosopher and a young man, this book explores and explains the principles of Adlerian psychology. The authors firmly argue that happiness is a conscious choice anyone can make, freeing themselves from past traumas, the expectations of others, and the need for validation. It is a profound guide to discovering inner freedom and taking control of one's own life."
+  },
+  {
+    "id": 29,
+    "title": "Twenty Thousand Leagues Under the Seas",
+    "author": "Jules Verne",
+    "publication_year": 1870,
+    "genres": [
+      "Adventure"
+    ],
+    "themes": [
+      "exploration",
+      "science"
+    ],
+    "keywords": [
+      "Nautilus"
+    ],
+    "short_summary": "Professor Aronnax journeys beneath the oceans aboard the Nautilus.",
+    "full_summary": "French Professor Pierre Aronnax, along with his servant and a harpooner, become prisoners on the remarkable submarine Nautilus, commanded by the enigmatic and genius Captain Nemo. Their epic journey through the depths of the globe's oceans becomes a fascinating foray into the mysteries of the underwater world, anticipating modern technological inventions and exploring the conflict between the thirst for scientific knowledge, political rebellion, and Nemo's desire for absolute freedom."
+  },
+  {
+    "id": 30,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publication_year": -700,
+    "genres": [
+      "Classic"
+    ],
+    "themes": [
+      "journey",
+      "perseverance"
+    ],
+    "keywords": [
+      "Greek mythology"
+    ],
+    "short_summary": "Odysseus battles divine forces to return home after the Trojan War.",
+    "full_summary": "One of the fundamental pillars of world literature, this ancient epic follows the agonizing ten-year journey of the Greek hero Odysseus (Ulysses) to his home in Ithaca after the end of the Trojan War. Braving the wrath of the gods, mythological monsters like the Cyclopes, and fatal temptations, Odysseus demonstrates extraordinary ingenuity and perseverance, while his wife, Penelope, must fend off greedy suitors at home."
+  },
+  {
+    "id": 31,
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949,
+    "genres": [
+      "Dystopian"
+    ],
+    "themes": [
+      "freedom",
+      "surveillance"
+    ],
+    "keywords": [
+      "Big Brother",
+      "totalitarianism"
+    ],
+    "short_summary": "A man rebels against a totalitarian regime that controls every aspect of life.",
+    "full_summary": "In a suffocating dystopian society ruled by the Party and constantly watched by the omnipresent figure of 'Big Brother,' Winston Smith works on rewriting history to fit the regime's propaganda. His conscience gradually awakens, leading to a dangerous act of rebellion and a forbidden love story. The novel is a chilling and ever-relevant warning about totalitarianism, censorship, the manipulation of truth, and the annihilation of free thought."
+  },
+  {
+    "id": 32,
+    "title": "The Institute",
+    "author": "Stephen King",
+    "publication_year": 2019,
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "themes": [
+      "power",
+      "survival"
+    ],
+    "keywords": [
+      "telekinesis"
+    ],
+    "short_summary": "Children with special abilities are imprisoned and subjected to mysterious experiments.",
+    "full_summary": "After his parents are murdered in the middle of the night, 12-year-old genius Luke Ellis is kidnapped and wakes up in a sinister facility known as 'The Institute.' Here, children with special abilities (telekinesis and telepathy) are subjected to brutal experiments to be used as weapons. Alongside other children, Luke must find a seemingly impossible way to escape and expose this shadow government organization."
+  },
+  {
+    "id": 33,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "publication_year": 1847,
+    "genres": [
+      "Classic"
+    ],
+    "themes": [
+      "love",
+      "independence"
+    ],
+    "keywords": [
+      "governess"
+    ],
+    "short_summary": "An orphan seeks love, dignity, and independence.",
+    "full_summary": "The orphaned Jane Eyre endures a childhood marked by abuse and a strict education at the Lowood School, but she manages to keep her dignified and strong spirit. Hired as a governess at Thornfield Hall, she falls in love with her employer, the complex and brooding Mr. Rochester. When a dark and terrifying secret is revealed on their very wedding day, Jane is forced to choose between the passion of her heart and her moral integrity, thus defining the prototype of the independent heroine."
+  },
+  {
+    "id": 34,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "publication_year": 1847,
+    "genres": [
+      "Classic"
+    ],
+    "themes": [
+      "revenge",
+      "love"
+    ],
+    "keywords": [
+      "moors"
+    ],
+    "short_summary": "A dark tale of obsessive love and revenge.",
+    "full_summary": "Set against the wild and desolate backdrop of the Yorkshire moors, the novel presents the intense, obsessive, and ultimately destructive love story between Heathcliff, an adopted orphan, and Catherine Earnshaw. Due to pride and social conventions, their destinies separate, and Heathcliff unleashes a relentless campaign of revenge, the fury of which will haunt and destroy the lives of the subsequent generations of the Earnshaw and Linton families."
+  },
+  {
+    "id": 35,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publication_year": 1813,
+    "genres": [
+      "Classic"
+    ],
+    "themes": [
+      "love",
+      "society"
+    ],
+    "keywords": [
+      "marriage"
+    ],
+    "short_summary": "Elizabeth Bennet challenges the prejudice and social expectations of her era.",
+    "full_summary": "In 19th-century England, the intelligent and lively Elizabeth Bennet faces pressure from her mother to make a financially advantageous marriage. When she meets the wealthy but seemingly arrogant Mr. Darcy, sparks fly fueled by a wrong first impression (prejudice) and wounded egos (pride). With a sharp satire of social class, the novel follows their mutual evolution toward self-knowledge and a deep, equal love."
+  },
+  {
+    "id": 36,
+    "title": "The Little Mermaid",
+    "author": "Hans Christian Andersen",
+    "publication_year": 1837,
+    "genres": [
+      "Children"
+    ],
+    "themes": [
+      "love",
+      "sacrifice"
+    ],
+    "keywords": [
+      "mermaid"
+    ],
+    "short_summary": "A young mermaid dreams of living among humans on land.",
+    "full_summary": "A young mermaid falls hopelessly in love with a human prince she saves from drowning and dreams of living on land. To gain human legs and an immortal soul, she makes a terrible pact with a sea witch, giving up her beautiful voice and accepting constant physical pain. The original fairy tale is a melancholic and profound story about unrequited love, altruism, and self-sacrifice in its purest form."
+  },
+  {
+    "id": 37,
+    "title": "The Ugly Duckling",
+    "author": "Hans Christian Andersen",
+    "publication_year": 1843,
+    "genres": [
+      "Children"
+    ],
+    "themes": [
+      "identity",
+      "acceptance"
+    ],
+    "keywords": [
+      "swan"
+    ],
+    "short_summary": "A lonely and mocked duckling discovers his true identity.",
+    "full_summary": "A bird that hatches from a stray egg is mocked, marginalized, and chased away by the farm animals because of his different and strange appearance. Enduring a journey full of hardships, cold, and loneliness, the 'duckling' survives the winter only to discover in the spring, looking at his reflection in the water, that he has become an adult swan of unparalleled beauty. The story is a classic metaphor for the value of patience, transformation, and discovering one's true inner worth."
+  },
+  {
+    "id": 38,
+    "title": "The Snow Queen",
+    "author": "Hans Christian Andersen",
+    "publication_year": 1844,
+    "genres": [
+      "Children"
+    ],
+    "themes": [
+      "friendship",
+      "courage"
+    ],
+    "keywords": [
+      "magic",
+      "fairy tale"
+    ],
+    "short_summary": "A girl embarks on a magical journey to save her best friend.",
+    "full_summary": "When little Kai's heart and eyes are infected with shards from a magic mirror created by a malicious troll, he becomes cold and cruel, eventually being kidnapped by the enigmatic Snow Queen. His best friend, Gerda, refuses to abandon him and embarks on a magical journey filled with dangers, talking creatures, and fantastic trials. With the help of her innocence and unconditional love, she manages to thaw Kai's heart, celebrating the unstoppable force of friendship."
+  }
+]
